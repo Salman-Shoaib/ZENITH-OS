@@ -284,7 +284,7 @@ DENY
 All file operations are performed inside:
 
 ```txt
-nebula_hdd/
+zenith_hdd/
 ```
 
 which acts as the virtual storage drive of the operating system.
@@ -335,19 +335,9 @@ ZENITH OS also contains fun interactive utilities:
 ---
 
 # Team Members
-
-|   |
-| - |
-
-| Salman Shoaib   |   |
-| Abdullah Nadeem |   |
-| Shoaib Altaf    |   |
-
-  
-
-|   |   |
-| - | - |
-|   |   |
+Salman Shoaib
+Abdullah Nadeem 
+Shoaib Altaf    
 
 ---
 
