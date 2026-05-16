@@ -170,10 +170,10 @@ ZENITH-OS/
 
 # Supported Platform
 
-✅ Linux
-✅ Arch Linux
-✅ Ubuntu
-✅ WSL (Windows Subsystem for Linux)
+- Linux
+- Arch Linux
+- Ubuntu
+- WSL (Windows Subsystem for Linux)
 
 ---
 
@@ -326,18 +326,18 @@ Logs include:
 
 ZENITH OS also contains fun interactive utilities:
 
-* 🎲 Comic Dice Roller
-* ⏰ Alarm System
-* 🕹 Mini Game
-* 🎵 Music Player
-* ⌚ Stopwatch
+* Comic Dice Roller
+* Alarm System
+* Mini Game
+* Music Player
+* Stopwatch
 
 ---
 
 # Team Members
-Salman Shoaib
-Abdullah Nadeem 
-Shoaib Altaf    
+- Salman Shoaib
+- Abdullah Nadeem
+- Shoaib Altaf
 
 ---
 
